@@ -6,10 +6,10 @@
  */
 
 
-
+//빙고 게임이다
 package AwtSwing;
 // 2번 :  스윙을 사용하기 때문에 모든 것을 import 한다.
-// *  : 모든 것을 불러 온다.
+// *  : 모든 것을 불러 온다. 
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Dimension;
