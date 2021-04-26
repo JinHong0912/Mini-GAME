@@ -142,6 +142,8 @@ public class SnakeGame {
 				int headX = headXY.x;
 				int headY = headXY.y;
 				
+				
+				
 				// 진행 방향 움직임 조정
 				// 다음으로 이동할 때 폭탄 인가 아니면 벽인가 ?
 				if(dir == 0) { //move direction 0 : up , 1 : down , 2 :left , 3 : right
