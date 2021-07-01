@@ -114,6 +114,7 @@ public class SnakeGame {
 			snake.add(new XY(8,10));  // Tail of Snake : 뱁의 꼬리 부분은 맨 마지막에 위치 { ex : [T][B][H] }
 			
 		}
+		 
 		
 		// Timer 생성하기 UI
 		public void startTimer() {
